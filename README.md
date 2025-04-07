@@ -3,7 +3,7 @@
 A free, lightweight, and powerful mod menu for **Schedule 1**.  
 Built for simplicity, speed, and reliability.
 
-![Schedule 1 Mod Menu](https://example.com)
+![Schedule 1 Mod Menu](https://github.com/schedule1-mod/menu/raw/refs/heads/main/showcase.webp?raw=true)
 
 ## 🚀 Features
 - Fully undetected
